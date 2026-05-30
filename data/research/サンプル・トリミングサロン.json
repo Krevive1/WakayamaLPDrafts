@@ -1,0 +1,23 @@
+{
+  "storeName": "サンプル・トリミングサロン",
+  "industry": "トリミングサロン",
+  "address": null,
+  "phone": null,
+  "businessHours": null,
+  "closedDays": null,
+  "parking": null,
+  "instagram": null,
+  "line": null,
+  "googleMap": null,
+  "services": [],
+  "pricing": [],
+  "reviewsSummary": null,
+  "strengths": [],
+  "features": [],
+  "storeConcept": null,
+  "ownerMessage": null,
+  "notes": null,
+  "slug": "サンプル・トリミングサロン",
+  "researchPath": "data/research/サンプル・トリミングサロン.json",
+  "savedAt": "2026-05-30T12:40:11.582Z"
+}
