@@ -1,0 +1,37 @@
+{
+  "storeName": "ソルドッグデザイン（Sol dog design）",
+  "industry": "トリミングサロン（小型犬専門）",
+  "address": null,
+  "phone": null,
+  "businessHours": "10:00〜17:00（不定休）",
+  "closedDays": "不定休",
+  "parking": null,
+  "instagram": "https://www.instagram.com/dogdesign_sol/",
+  "line": null,
+  "googleMap": null,
+  "officialUrl": null,
+  "services": [
+    "トリミング（小型犬専門）"
+  ],
+  "pricing": [],
+  "reviewsSummary": null,
+  "strengths": [
+    "小型犬専門サロン",
+    "一頭一頭に寄り添うトリミングスタイル",
+    "その子の可愛さを最大限に引き出すデザイン提案",
+    "Instagramフォロワー約2,000人超の実績ある発信力"
+  ],
+  "features": [
+    "小型犬専門",
+    "完全予約制（不定休・予約制）",
+    "オーナー：Miyamoto Ami",
+    "スタッフアカウントあり（@dogdesign_sol_saki）"
+  ],
+  "storeConcept": "和歌山市の小型犬専門トリミングサロン。「その子に寄り添うトリミング」をモットーに、一頭ごとの個性や魅力を丁寧に引き出すスタイルを提供している。",
+  "ownerMessage": null,
+  "notes": "Instagram公式アカウント：@dogdesign_sol。住所・電話番号・駐車場・料金・口コミ・営業時間詳細・LINE・GoogleマップURLは公開情報から確認できなかったため null または空配列としています。手入力にて補完が必要です。",
+  "location": "和歌山市",
+  "slug": "ソルドッグデザイン",
+  "researchPath": "data/research/ソルドッグデザイン.json",
+  "savedAt": "2026-05-31T11:00:02.321Z"
+}
